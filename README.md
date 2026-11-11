@@ -1,6 +1,6 @@
-# Salina Lore
+# Salinapalooza: 24 & Unsupervised
 
-A quick two-truths-and-one-lie game for Salina’s birthday rave. Guests enter three statements, privately identify the lie, and optionally include a backstory. Private-party consent is required to prepare an email.
+A quick two-truths-and-one-lie game for Salinapalooza: 24 & Unsupervised. Guests enter three statements, privately identify the lie, and optionally include a backstory. Private-party consent is required to prepare an email.
 
 The game prepares an email to Andre; guests review and press Send themselves. Copy text and plain-text download are available if their email app does not open. The site does not send email, store submissions, or confirm delivery. The guest recap hides the lie; the email includes the secret host answer key. No login is required to play.
 
